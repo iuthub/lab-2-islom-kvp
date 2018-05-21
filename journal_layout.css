@@ -1,0 +1,22 @@
+p.shout{
+	background-color: yellow;
+	font-weight: bold;
+}
+p.patron{
+	color: red;
+	font-family: cursive;
+}
+h2{border: 5px solid red }
+p{padding: 5px solid black}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+p {
+	margin-left: auto;
+	margin-right:auto;
+width:  1000px;
+}
